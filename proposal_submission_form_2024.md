@@ -33,6 +33,6 @@
 
 #### Team Members
 - Anand Mysorekar - `anandmysorekar`
-- Nakshatra Bansal - `YOUR_GITHUB_USERNAME`
+- Nakshatra Bansal - `Nakshatra120`
 - Ishaan Chadha - `ishaan1011`
 
