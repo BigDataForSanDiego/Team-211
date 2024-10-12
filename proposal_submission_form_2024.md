@@ -34,5 +34,5 @@
 #### Team Members
 - Anand Mysorekar - `anandmysorekar`
 - Nakshatra Bansal - `YOUR_GITHUB_USERNAME`
-- Ishaan Chadha - `YOUR_GITHUB_USERNAME`
+- Ishaan Chadha - `ishaan1011`
 
